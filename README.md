@@ -6,9 +6,9 @@
 
 4. pkg install python-pip
 
-5. git clone https://github.com/CPMgalatool/CPMgalatool.git
+5. git clone https://github.com/GALAtest19/GALAtest19tool.git
 
-6. cd CPMgalatool
+6. cd GALAtest19
 
 7. git pull
 
