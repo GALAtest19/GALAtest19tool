@@ -8,7 +8,7 @@
 
 5. git clone https://github.com/GALAtest19/GALAtest19tool.git
 
-6. cd GALAtest19
+6. cd GALAtest19tool
 
 7. git pull
 
